@@ -9,7 +9,7 @@ O Bikcraft simula o site de uma marca de bicicletas personalizadas, apresentando
 ## 🔗 Demonstração
 
 👉 Acesse o projeto online:  
-https://SEU-USUARIO.github.io/Bikcraft/
+https://ewtfiwl.github.io/Bikcraft/
 
 ---
 
@@ -46,7 +46,7 @@ Este projeto foi desenvolvido com o objetivo de:
 
 ## 📸 Preview
 
-![Preview do projeto](/img/print-projeto-bikcraft.png)
+![Preview do projeto](/img/preview.png)
 
 ---
 
