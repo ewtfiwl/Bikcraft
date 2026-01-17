@@ -17,7 +17,6 @@ https://ewtfiwl.github.io/Bikcraft/
 
 - HTML5
 - CSS3 (Flexbox e Grid)
-- JavaScript (interações básicas)
 - Git & GitHub
 - GitHub Pages
 
