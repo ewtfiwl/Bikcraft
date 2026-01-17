@@ -46,7 +46,7 @@ Este projeto foi desenvolvido com o objetivo de:
 
 ## 📸 Preview
 
-![Preview do projeto](/img/prevew-bikcraft.png)
+![Preview do projeto](./img/prevew-bikcraft.png)
 
 ---
 
