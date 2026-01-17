@@ -1,6 +1,6 @@
 # 🚲 Bikcraft
 
-Projeto de site institucional desenvolvido para praticar **HTML, CSS e JavaScript**, com foco em **estruturação semântica, responsividade e organização de código**.
+Projeto de site institucional desenvolvido para praticar **HTML e CSS**, com foco em **estruturação semântica, responsividade e organização de código**.
 
 O Bikcraft simula o site de uma marca de bicicletas personalizadas, apresentando produtos, diferenciais e informações de contato de forma clara e moderna.
 
